@@ -1,0 +1,11 @@
+/Users/wickylim/Desktop/CodesStuff/VSWorkspace/MovieVotingCore/bin/Debug/netcoreapp2.0/MovieVotingCore.deps.json
+/Users/wickylim/Desktop/CodesStuff/VSWorkspace/MovieVotingCore/bin/Debug/netcoreapp2.0/MovieVotingCore.runtimeconfig.json
+/Users/wickylim/Desktop/CodesStuff/VSWorkspace/MovieVotingCore/bin/Debug/netcoreapp2.0/MovieVotingCore.runtimeconfig.dev.json
+/Users/wickylim/Desktop/CodesStuff/VSWorkspace/MovieVotingCore/bin/Debug/netcoreapp2.0/MovieVotingCore.dll
+/Users/wickylim/Desktop/CodesStuff/VSWorkspace/MovieVotingCore/bin/Debug/netcoreapp2.0/MovieVotingCore.pdb
+/Users/wickylim/Desktop/CodesStuff/VSWorkspace/MovieVotingCore/obj/Debug/netcoreapp2.0/MovieVotingCore.csproj.CoreCompileInputs.cache
+/Users/wickylim/Desktop/CodesStuff/VSWorkspace/MovieVotingCore/obj/Debug/netcoreapp2.0/MovieVotingCore.AssemblyInfoInputs.cache
+/Users/wickylim/Desktop/CodesStuff/VSWorkspace/MovieVotingCore/obj/Debug/netcoreapp2.0/MovieVotingCore.AssemblyInfo.cs
+/Users/wickylim/Desktop/CodesStuff/VSWorkspace/MovieVotingCore/obj/Debug/netcoreapp2.0/MovieVotingCore.dll
+/Users/wickylim/Desktop/CodesStuff/VSWorkspace/MovieVotingCore/obj/Debug/netcoreapp2.0/MovieVotingCore.pdb
+/Users/wickylim/Desktop/CodesStuff/VSWorkspace/MovieVotingCore/obj/Debug/netcoreapp2.0/MovieVotingCore.csprojResolveAssemblyReference.cache
