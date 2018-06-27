@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{6E7CE39C-0ACB-47B6-B344-B816051839C5}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="appsettings.json">
+  <MonoDevelop.Ide.Workbench ActiveDocument="README.md">
     <Files>
       <File FileName=".dockerignore" Line="6" Column="8" />
       <File FileName="Dockerfile" Line="1" Column="1" />
@@ -15,24 +15,10 @@
       <File FileName="Pages/About.cshtml.cs" Line="25" Column="20" />
       <File FileName="Models/SeedData.cs" Line="1" Column="1" />
       <File FileName="appsettings.json" Line="10" Column="4" />
+      <File FileName="bundleconfig.json" Line="1" Column="1" />
+      <File FileName="appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="README.md" Line="2" Column="48" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="MovieVotingCore" expanded="True">
-            <Node name="docker-compose" expanded="True" />
-            <Node name="MovieVotingCore" expanded="True">
-              <Node name="Models" expanded="True" />
-              <Node name="Pages" expanded="True" />
-              <Node name="wwwroot" expanded="True">
-                <Node name="images" expanded="True" />
-              </Node>
-              <Node name="appsettings.json" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

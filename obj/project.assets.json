@@ -13127,13 +13127,13 @@
       "projectName": "MovieVotingCore",
       "projectPath": "/Users/wickylim/Desktop/CodesStuff/VSWorkspace/MovieVotingCore/MovieVotingCore.csproj",
       "packagesPath": "/Users/wickylim/.nuget/packages/",
-      "outputPath": "/Users/wickylim/Desktop/CodesStuff/VSWorkspace/MovieVotingCore/obj/",
+      "outputPath": "/Users/wickylim/Desktop/CodesStuff/VSWorkspace/MovieVotingCore/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/wickylim/.nuget/NuGet/NuGet.Config"
+        "/Users/wickylim/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
@@ -13155,18 +13155,19 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
+          "Microsoft.NETCore.App": {
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "2.0",
+            "autoReferenced": true
+          },
           "Microsoft.AspNetCore.All": {
             "target": "Package",
-            "version": "[2.0.5, )"
-          },
-          "Microsoft.NETCore.App": {
-            "target": "Package",
-            "version": "[2.0.0, )",
-            "autoReferenced": true
+            "version": "2.0.5"
           },
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
-            "version": "[2.0.0, )"
+            "version": "2.0.0"
           }
         },
         "imports": [
